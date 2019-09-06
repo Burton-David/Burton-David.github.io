@@ -4,7 +4,7 @@
 - name: Burton
   #i18n: jalpc
   gh_user: Burton-David
-  repo: Burton
+  repo: Burton-David.github.io
   img: /static/assets/img/landing/jekyll.png
   desc: This project is my project.
 
