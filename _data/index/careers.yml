@@ -1,28 +1,42 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Project Development
+    detail: Rockrose Development Leasing Team
     #i18n: company_a
   desc:
-    detail: Integrated Health Technologies Startup Company
+    detail: Rockrose is known as a neighborhood pioneer and is respected as one of New York's premier luxury real estate owner-manager-developers with an extensive portfolio of residential, commercial and retail properties.
     #i18n: company_a_desc
   date:
-    detail: Apr. 2016
+    detail: Sept. 2018
     #i18n: company_a_date
   job:
-    detail: Startup
+    detail: Assisted in development of marketing plans, Internet and print advertisements, and marketing copy. Performed administrative duties such as rent collection, communicating with tenants via written correspondence, maintaining property and facilities, and administering lease closings.
     #i18n: company_a_job
   icon: fa-plus-square
   present: true
 
 - name:
-    detail: Company B
+    detail: Math Teacher (Washington, DC)
     #i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: Neval Thomas Elementary School envisions every child empowered to become a knowledgeable, innovative, and globally competitive citizen.
     #i18n: company_b_desc
   date:
-    detail: Jun. 2015
+    detail: Aug. 2017
+    #i18n: company_b_date
+  job:
+    detail: Full Stack Developer
+    #i18n: company_b_job
+  icon: fa-plus-square
+  
+  - name:
+    detail: Second Grade Teacher (Taiwan, Taipei)
+    #i18n: company_b
+  desc:
+    detail: Taipei Fuhsing Private School is an institution that strives for educational excellence and welcomes the future. Over the past 71 years, Fuhsing has achieved a high academic reputation in Taiwan because of its well-organized and well-rounded program. All of its senior-high graduates, from both Divisions, have entered either local four-year colleges or universities around the world.
+    #i18n: company_b_desc
+  date:
+    detail: Aug. 2016
     #i18n: company_b_date
   job:
     detail: Full Stack Developer
