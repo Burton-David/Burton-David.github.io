@@ -28,17 +28,3 @@
     detail: Full Stack Developer
     #i18n: company_b_job
   icon: fa-plus-square
-  
-  - name:
-    detail: Second Grade Teacher (Taiwan, Taipei)
-    #i18n: company_b
-  desc:
-    detail: Taipei Fuhsing Private School is an institution that strives for educational excellence and welcomes the future. Over the past 71 years, Fuhsing has achieved a high academic reputation in Taiwan because of its well-organized and well-rounded program. All of its senior-high graduates, from both Divisions, have entered either local four-year colleges or universities around the world.
-    #i18n: company_b_desc
-  date:
-    detail: Aug. 2016
-    #i18n: company_b_date
-  job:
-    detail: Full Stack Developer
-    #i18n: company_b_job
-  icon: fa-plus-square
