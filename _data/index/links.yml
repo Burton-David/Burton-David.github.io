@@ -1,12 +1,12 @@
 # links section data
-- last_name: Name 1
-  first_name:
-  desc: CEO
-  website: https://www.google.com
-  email: ceo@google.com
+- last_name: Chen Dance Project
+  first_name: Jessica
+  desc: Link
+  website: http://www.jchenproject.com/
+  email: jchenproject@gmail
 
 - last_name: Donate
-  first_name: Burton
+  first_name: 
   desc: Support Burton
   website: https://burton-david.github.io/donate/
   email: me@burton.com
