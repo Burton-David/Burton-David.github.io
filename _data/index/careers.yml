@@ -1,5 +1,6 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
+# Job 1
 - name:
     detail: Rockrose Development Leasing
     #i18n: company_a
@@ -32,5 +33,20 @@
     detail: Utilize analytical, statistical, and programming skills to collect, analyze, and interpret data sets.
       Create donation campaign strategies and optimize logistics for social media campaigns.
 
+    #i18n: company_b_job
+  icon: fa-plus-square
+  present: true
+
+- name:
+    detail: Math Teacher
+    #i18n: company_b
+  desc:
+    detail: Washington D.C. Public Schools
+    #i18n: company_b_desc
+  date:
+    detail: 2017-2018
+    #i18n: company_b_date
+  job:
+    detail: Neval Thomas Elementary School Fifth Grade Math Teacher
     #i18n: company_b_job
   icon: fa-plus-square
