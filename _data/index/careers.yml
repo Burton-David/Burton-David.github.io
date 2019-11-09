@@ -11,10 +11,10 @@
     #i18n: company_a_date
   job:
     detail: >
-    Working knowledge of real estate law and leasing practices
-    Build relationships with brokers and clients through written and verbal communication
-    Analyze and verify rental application data to determine eligibility for residency
-    Create, analyze, interpret and report marketing data
+      Working knowledge of real estate law and leasing practices
+      Build relationships with brokers and clients through written and verbal communication
+      Analyze and verify rental application data to determine eligibility for residency
+      Create, analyze, interpret and report marketing data
 
     #i18n: company_a_job
   icon: fa-plus-square
