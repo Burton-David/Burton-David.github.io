@@ -4,16 +4,10 @@
     detail: Rockrose Development Leasing Team
     #i18n: company_a
   desc:
-    detail: | Rockrose Development, New York, New York
-    * Leasing Team, 06/2018 - present
-    * Working knowledge of real estate law and leasing practices
-    * Build relationships with brokers and clients through written and verbal communication
-    * Analyze and verify rental application data to determine eligibility for residency
-    * Create, analyze, interpret and report marketing data
-
+    detail: New York, New York
     #i18n: company_a_desc
   date:
-    detail: Sept. 2018
+    detail: Sept. 2018 - Present
     #i18n: company_a_date
   job:
     detail: Assisted in development of marketing plans, Internet and print advertisements, and marketing copy. Performed administrative duties such as rent collection, communicating with tenants via written correspondence, maintaining property and facilities, and administering lease closings.
