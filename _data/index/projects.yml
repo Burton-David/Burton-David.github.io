@@ -8,15 +8,15 @@
   img: /static/assets/img/landing/jekyll.png
   desc: This project is my project.
 
-- name: Python
+- name: Student Outcome Predictor
   #i18n: cpython
-  gh_user: python
-  repo: cpython
-  img: /static/assets/img/landing/python.png
-  desc: This project is other's project. I use another request to get repo's information.
+  gh_user: Burton-David
+  repo: https://github.com/Burton-David/StudentOutcomePredictor
+  img: /static/assets/img/landing/StudentOutcomePredictor.png
+  desc: Predicting students final grade with Keras Deep Learning and a comparison of Machine Learning Models.
 
-- name: Google
+- name: Github Projects
   #i18n: google
-  url: https://google.com
-  img: /static/assets/img/landing/google.png
+  url: https://github.com/Burton-David
+  img: /static/assets/img/landing/github_logo.png
   desc: This is another project.
