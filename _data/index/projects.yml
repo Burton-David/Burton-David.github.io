@@ -4,9 +4,9 @@
 - name: Burton
   #i18n: jalpc
   gh_user: Burton-David
-  repo: Burton-David.github.io
-  img: /static/assets/img/landing/jekyll.png
-  desc: This project is my project.
+  repo: KickstarterClassificationProject
+  img: /static/assets/img/landing/kickstarter-k.png
+  desc: Predict the success or failure of kickstarter campaigns.  Plan a successful campaign.
 
 - name: Student Outcome Predictor
   #i18n: cpython
