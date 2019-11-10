@@ -12,7 +12,7 @@
   #i18n: cpython
   gh_user: Burton-David
   repo: https://github.com/Burton-David/StudentOutcomePredictor
-  img: /static/assets/img/landing/StudentOutcomePredictor.png
+  img: /static/assets/img/landing/StudentOutcomePredictor.jpg
   desc: Predicting students final grade with Keras Deep Learning and a comparison of Machine Learning Models.
 
 - name: Github Projects
