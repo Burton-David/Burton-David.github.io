@@ -1,0 +1,3 @@
+current directory: /Users/db/Burton-David.github.io/vendor/bundle/ruby/2.6.0/gems/nokogiri-1.10.4/ext/nokogiri
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0 -r ./siteconf20191113-1347-nvdd5k.rb extconf.rb
+undefined method `success?' for nil:NilClass
